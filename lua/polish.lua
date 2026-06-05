@@ -1,0 +1,2 @@
+-- This file runs last in the setup process.
+-- Add one-off Lua customizations here when they do not fit a plugin spec.
